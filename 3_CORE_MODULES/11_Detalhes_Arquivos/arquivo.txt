@@ -1,0 +1,4 @@
+Lendo detalhes do arquivo.
+
+
+Verificando o aumento do tamanho do arquivo através de index.js rodando no console.
